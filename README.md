@@ -1,4 +1,6 @@
 # RNCryptor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2FRNCryptor-objc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2FRNCryptor-objc?ref=badge_shield)
+
 
 Cross-language AES Encryptor/Decryptor [data
 format](https://github.com/RNCryptor/RNCryptor-Spec/blob/master/RNCryptor-Spec-v3.md).
@@ -316,3 +318,6 @@ license:
  * @APPLE_LICENSE_HEADER_END@
  */
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2FRNCryptor-objc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2FRNCryptor-objc?ref=badge_large)
